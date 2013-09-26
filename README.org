@@ -1,0 +1,75 @@
+#+options: toc:nil H:10 ':t
+#+latex_header: \usepackage[finnish]{babel}
+#+latex_header: \usepackage[T1]{fontenc}
+#+latex_header: \usepackage[scaled]{beraserif}
+#+latex_header: \usepackage[scaled]{berasans}
+#+latex_header: \usepackage[scaled]{beramono}
+#+latex_header: \usepackage{mycv}
+#+latex_class_options: [a4paper]
+
+#+title: CV -- Roni Kallio
+#+subtitle: Saatavilla myös osoitteessa [[https://github.com/rkallio/cv][https://github.com/rkallio/cv]]
+
+* Yhteystiedot
+#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
+| Nimi       | Roni Kallio                |
+| Sähköposti | [[mailto:roni.jj.kallio@gmail.com][roni.jj.kallio@gmail.com]]   |
+| Github     | [[https://github.com/rkallio][https://github.com/rkallio]] |
+
+* Työkokemus
+
+** 2021-2023
+
+*IT-asiantuntija*, Yhteiskuntatieteellinen Tietoarkisto,
+\\
+Tampereen yliopisto
+
+* Koulutus
+
+** 2017-????
+
+*Tietojenkäsittelytieteiden kandidaatti, FM*, Tampereen yliopisto
+
+** 2015-2017
+
+*Tieto-, ja viestintätekniikan perustutkinto*, Suupohjan \\
+ammatti-instituutti
+
+* Taidot
+
+** Järjestelmät
+
+Linux♥️, virtuaalipalvelimet ja kontit, Google Cloud Platform
+
+** Verkko
+
+HTTP/S ja REST, Palvelin- ja selainrenderöidyt verkkosovellukset, \\
+(Java|Type)script, React, Pääsyn-, ja identiteetinhallinta OAuth2 \\
+ja OpenID Connect protokollilla
+
+** Muut
+
+Python, Bash, Git, Ansible, CI ja testausautomaatio, Jenkins, Robot Framework, SQL, Emacs♥️ ja Elisp
+
+* Kiinnostuksen kohteet
+
+** Harrastukset
+
+Jooga, uinti, matkaskeittaus
+
+* Julkaisut
+
+** Ohjelmistot
+
+*Tasera Scheduling Software* \\
+Tampereen Seudun Ampumaratayhdistys ry:n ratavuorojärjestelmä \\
+Tietovarasto: [[https://github.com/tasera-ry/tss][https://github.com/tasera-ry/tss]] \\
+Verkko-osoite: [[https://tss.tasera.fi][https://tss.tasera.fi]]
+
+*Varasto* \\
+Pieni esineiden inventaariojärjestelmä henkilökohtaiseen käyttöön \\
+Tietovarasto: [[https://github.com/rkallio/varasto][https://github.com/rkallio/varasto]]
+
+*task.el* \\
+Laajennus sisäänrakennettuun project -pakettiin Emacsissa \\
+Tietovarasto: [[https://github.com/rkallio/task.el][https://github.com/rkallio/task.el]]
