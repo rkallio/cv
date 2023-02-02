@@ -1,6 +1,57 @@
-A simple LaTeX resume template for org-mode.  License under CC
-BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+#+OPTIONS: toc:nil H:10 ':t
 
-**** Reference
-     - https://github.com/punchagan/resume
-     - http://www.latextemplates.com/template/plasmati-graduate-cv
+#+LaTeX_HEADER: \usepackage{fa_orgmode_cv}
+
+#+TITLE: CV
+
+* Yhteystiedot
+#+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
+|        <r> |                            |
+|       Nimi | Roni Kallio                |
+| Sähköposti | [[mailto:roni.jj.kallio@gmail.com][roni.jj.kallio@gmail.com]]   |
+|     Github | [[https://github.com/rkallio]] |
+
+* Työkokemus
+
+** 2021-2023
+
+*IT-asiantuntija*, Yhteiskuntatieteellinen Tietoarkisto, Tampereen yliopisto
+
+* Koulutus
+
+** 2017-????
+
+*Tietojenkäsittelytieteiden kandidaatti, FM*, Tampereen yliopisto
+
+** 2015-2017
+
+*Tieto-, ja viestintätekniikan perustutkinto*, Suupohjan ammatti-instituutti
+
+* Taidot
+
+** Käyttöjärjestelmät
+
+Linux♥️, Virtuaalipalvelimet, kontit
+
+** Verkkoteknologiat
+
+HTTP/S ja REST, Palvelin- ja selainrenderöidyt verkkosovellukset, (Java|Type)script, React, Pääsyn-, ja identiteetinhallinta OAuth2 ja OpenID Connect protokollilla.
+
+** Muut
+
+Python, Bash, Git, Ansible, CI ja testausautomaatio, Emacs♥️ ja Elisp
+
+* Kiinnostuksen kohteet
+
+** Harrastukset
+
+Jooga, Uinti, matkaskeittaus
+
+* Julkaisut
+
+** Ohjelmistot
+
+*Tasera Scheduling Software* Tampereen Seudun Ampumaratayhdistys ry:n ratavuorojärjestelmä. \\ Tietovarasto: [[https://github.com/rkallio/tss]] \\ Verkko-osoite: [[https://tss.tasera.fi]]
+
+*Varasto* Pieni esineiden inventaariojärjestelmä henkilökohtaiseen käyttöön
+Tietovarasto: [[https://github.com/rkallio/varasto]]
