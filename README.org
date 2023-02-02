@@ -6,10 +6,10 @@
 
 * Yhteystiedot
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|        <r> |                            |
-|       Nimi | Roni Kallio                |
-| Sähköposti | [[mailto:roni.jj.kallio@gmail.com][roni.jj.kallio@gmail.com]]   |
-|     Github | [[https://github.com/rkallio]] |
+|        <r> |                             |
+|       Nimi | Roni Kallio                 |
+| Sähköposti | [[mailto:roni.jj.kallio@gmail.com][roni.jj.kallio@gmail.com]] \\ [[mailto:roni.kallio@tuni.fi][roni.kallio@tuni.fi]] |
+|     Github | [[https://github.com/rkallio]]  |
 
 * Työkokemus
 
