@@ -4,7 +4,7 @@
 #+latex_header: \usepackage[scaled]{beraserif}
 #+latex_header: \usepackage[scaled]{berasans}
 #+latex_header: \usepackage[scaled]{beramono}
-#+latex_header: \usepackage{fa_orgmode_cv}
+#+latex_header: \usepackage{mycv}
 #+latex_class_options: [a4paper]
 
 #+TITLE: CV -- Roni Kallio
