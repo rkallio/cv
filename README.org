@@ -1,4 +1,4 @@
-#+OPTIONS: toc:nil H:10 ':t
+#+options: toc:nil H:10 ':t
 #+latex_header: \usepackage[finnish]{babel}
 #+latex_header: \usepackage[T1]{fontenc}
 #+latex_header: \usepackage[scaled]{beraserif}
@@ -7,12 +7,11 @@
 #+latex_header: \usepackage{mycv}
 #+latex_class_options: [a4paper]
 
-#+TITLE: CV -- Roni Kallio
-#+SUBTITLE:  Saatavilla myös osoitteessa [[https://github.com/rkallio/cv][https://github.com/rkallio/cv]]
+#+title: CV -- Roni Kallio
+#+subtitle: Saatavilla myös osoitteessa [[https://github.com/rkallio/cv][https://github.com/rkallio/cv]]
 
 * Yhteystiedot
 #+ATTR_LATEX: :environment tabular :align rp{0.85\textwidth}
-|        <r> |                            |
 |       Nimi | Roni Kallio                |
 | Sähköposti | [[mailto:roni.jj.kallio@gmail.com][roni.jj.kallio@gmail.com]]   |
 |     Github | [[https://github.com/rkallio][https://github.com/rkallio]] |
